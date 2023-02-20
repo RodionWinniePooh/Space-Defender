@@ -3,8 +3,8 @@ Space Defender - Action game
 
 Game levels in this project are presented in the visa of the planets.  
 
-Planets are of two types:
--space
+Planets are of two types:  
+- space
 - ground  
 
 The view of the planet depends on the location of the device (horizontally/vertically).  
