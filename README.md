@@ -12,6 +12,5 @@ The main task of the player when passing the level is to defeat the boss. When t
 It is possible to change the difficulty level in the game.
 
 ![photo_2023-02-20_11-57-41](https://user-images.githubusercontent.com/45859046/220059274-74bb9129-bab2-4423-abb6-e717d5abf50f.jpg)
-![photo_2023-02-20_11-57-27](https://user-images.githubusercontent.com/45859046/220059346-b563df26-6a36-463a-b950-b01aeb9ea662.jpg)
 ![space4](https://user-images.githubusercontent.com/45859046/220059388-08532161-e7f8-469d-82d1-03afa4aa20ed.png)
 ![space5](https://user-images.githubusercontent.com/45859046/220059449-5195c969-bcac-47b4-90a1-30ce6cd62d7d.png)
